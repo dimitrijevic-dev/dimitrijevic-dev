@@ -1,4 +1,4 @@
-![Profile Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi%20there!%20I'm%20Ognjen%20👋&fontSize=24)
+![Profile Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi%20there!%20I'm%20Ognjen.%20👋&fontSize=24)
 ### 👨‍💻 About Me
 
 
