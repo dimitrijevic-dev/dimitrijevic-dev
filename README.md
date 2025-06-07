@@ -9,12 +9,6 @@
   - 🤖 Competed in **National Olympiad of Artificial Intelligence (NOAI)**
   - 💻 Participated in the **Serbian Informatical Olympiad (SIO)**
 
-
-- 💻 **Skills**:
-  - **Backend Development**: Java, Spring Boot
-  - **Game Development**: LibGDX
-  - **Frontend Technologies**: React, HTML, CSS, JavaScript
-
 - 🌍 **Based in Serbia**, open to global opportunities and collaborations.
 
 
