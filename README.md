@@ -5,6 +5,7 @@
 - 🎓 **Soon-to-be College Student** passionate about coding and problem-solving.
 - 🏆 **National Coding Olympiad Participant**:
   - 🥈 **2nd place** in **Petlja National Coding Competition**
+  - 🥉 **3rd place** in **HS Algorithm Competition of Informatics and Mathematics (SUMA)**
   - 🤖 Competed in **National Olympiad of Artificial Intelligence (NOAI)**
   - 💻 Participated in the **Serbian Informatical Olympiad (SIO)**
 
