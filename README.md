@@ -2,7 +2,7 @@
 ### 👨‍💻 About Me
 
 
-- 🎓 **Soon-to-be College Student** passionate about coding and problem-solving.
+- 🎓 **College Student** passionate about coding and problem-solving.
 - 🏆 **National Coding Olympiad Participant**:
   - 🥈 **2nd place** in **Petlja National Coding Competition**
   - 🥉 **3rd place** in **HS Algorithm Competition of Informatics and Mathematics (SUMA)**
